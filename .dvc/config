@@ -1,0 +1,4 @@
+[core]
+    remote = subj07
+['remote "subj07"']
+    url = /media/maria/DATA1/Data_Algonauts2023/subj07_dvc
