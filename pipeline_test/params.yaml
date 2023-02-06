@@ -1,0 +1,6 @@
+prepare:
+  split: 0.1
+  seed: 789
+  data_dir: '/home/maria/Desktop/Algonauts2023/data'
+  parent_submission_dir: 'submit_predictions'
+  subj: 7
